@@ -19,7 +19,7 @@ Step 1: Created a new docker image for this task 'justinls1/calculator:latest' a
 
 Step 1: Copied the three files from the PPT and copy paste it into VSC for further changes
 Step 2: For createPod.yaml, createReplicaSet.yaml and createDeployment.yaml: changed the image & port fields to fit according to the docker image with 'justinls1/calculator:latest' & '3000'
-        (I had it running on 8080 as per tutorial, but it provides errors & when i changed it to 3000, it seems to work smoothly comapred to 8080 so i changed it)
+        (I had it running on 8080 as per tutorial, but it provides errors & when i changed it to 3000, it seems to work smoothly compared to 8080 so i changed it)
 Step 3: After adjustments, copy all three files and upload it to Dashboard UI
 Step 4: Ensure all Workload status are green
 
